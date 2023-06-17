@@ -23,10 +23,13 @@ export default {
           dark: '#9A0007'
         },
         'custom-gray': {
+          200: '#FAFBFD',
           300: '#9E9E9E',
           400: '#E0E0E0',
           500: '#3F3F3F',
           600: '#AEAEAE',
+          700: '#828282',
+          800: '#333333'
         },
       },
       boxShadow: {
